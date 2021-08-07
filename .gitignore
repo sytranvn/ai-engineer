@@ -1,0 +1,8 @@
+.DS_Store
+tags
+# library for submitting result to coursera
+submit.m
+token.mat
+*/lib/jsonlab
+*/lib/makeValidFieldName.m
+*/lib/submitWithConfiguration.m
